@@ -1,1 +1,1 @@
-This is version 2 file.
+version 2 file 
